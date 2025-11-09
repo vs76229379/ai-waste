@@ -124,3 +124,49 @@ Our goal:
 
 ## 📂 Repository Structure
 
+ai-waste-classification/
+│
+├── models/
+│ ├── efficientnetb0_final.h5
+│ ├── model_float_final_fixed.tflite
+│ └── model_int8_fixed.tflite
+│
+├── notebooks/
+│ ├── training_pipeline.ipynb
+│ └── tflite_conversion.ipynb
+│
+├── results/
+│ ├── confusion_matrix.png
+│ └── test_classification_report.csv
+│
+├── deployment/
+│ ├── edge_impulse_project_link.txt
+│ └── edge_inference_test.py
+│
+├── requirements.txt
+└── README.md
+
+yaml
+Copy code
+
+---
+
+## 📽️ Demo Video  
+🎥 *(Paste your YouTube or Vimeo demo link here)*  
+
+---
+
+## 🧾 License
+Licensed under the **MIT License**.  
+Feel free to use and modify with attribution.
+
+---
+
+## 👨‍💻 Author
+**Vivek Singh**  
+AI/ML | Edge AI | Computer Vision  
+📫 singh.vivekbarap@gmail.com
+
+---
+
+> 🌟 *"Building AI that brings sustainability to the edge."*
