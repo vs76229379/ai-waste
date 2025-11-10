@@ -108,7 +108,7 @@ Our goal:
   - Low latency and minimal memory usage  
 
 📎 **Edge Impulse Project Link:**  
-👉 *(Paste your Edge Impulse project link here)*  
+👉 https://smartphone.edgeimpulse.com/classifier.html
 
 ---
 
@@ -152,7 +152,7 @@ Copy code
 ---
 
 ## 📽️ Demo Video  
-🎥 *(Paste your YouTube or Vimeo demo link here)*  
+🎥 https://youtu.be/H8KAw-S8XBM 
 
 ---
 
